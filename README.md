@@ -21,7 +21,7 @@
 
 ## 🎯 Sobre mim
 
-**8+ anos** transformando problemas complexos em produtos digitais claros, acessíveis e escaláveis — de **bancos e seguradoras** (Sicoob, Caixa Seguradora) a **órgãos públicos** (TCU) e **grandes consultorias** (Capgemini, G4F).
+**18+ anos** transformando problemas complexos em produtos digitais claros, acessíveis e escaláveis — de **bancos e seguradoras** (Sicoob, Caixa Seguradora) a **órgãos públicos** (TCU) e **grandes consultorias** (Capgemini, G4F).
 
 Sou **Designer UX/UI Sênior e Product Designer** com atuação **end-to-end**: começo pela **pesquisa com usuários**, passo por **arquitetura de informação e mapeamento de jornadas**, construo **Design Systems** e entrego **protótipos em alta fidelidade** — com **handoff limpo**, porque eu falo a língua do dev: **React, HTML5, CSS3, SASS e JavaScript**.
 
