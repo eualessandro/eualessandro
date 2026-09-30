@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,45:1a1a2e,100:4ECDC4&height=150&section=header&text=Alessandro%20Rodrigues&fontColor=ffffff&fontSize=44&fontFace=Yanone%20Kaffeesatz&animation=fadeIn" />
 
 
+
 #### Senior UX/UI Designer &nbsp;·&nbsp; Product Designer &nbsp;·&nbsp; Design Systems & IA
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=4ECDC4,FF6B6B,A78BFA&center=true&width=620&height=55&lines=Senior+UX%2FUI+Designer;Product+Designer;Design+Systems+%26+Escalabilidade;Acessibilidade+-+WCAG+%2F+E-MAG;IA+aplicada+ao+produto+-+LLM+RAG+MCP" />
@@ -21,7 +22,7 @@
 
 ## 🎯 Sobre mim
 
-**18+ anos** transformando problemas complexos em produtos digitais claros, acessíveis e escaláveis — de **bancos e seguradoras** (Sicoob, Caixa Seguradora) a **órgãos públicos** (TCU) e **grandes consultorias** (Capgemini, G4F).
+**8+ anos** transformando problemas complexos em produtos digitais claros, acessíveis e escaláveis — de **bancos e seguradoras** (Sicoob, Caixa Seguradora) a **órgãos públicos** (TCU) e **grandes consultorias** (Capgemini, G4F, PD Case).
 
 Sou **Designer UX/UI Sênior e Product Designer** com atuação **end-to-end**: começo pela **pesquisa com usuários**, passo por **arquitetura de informação e mapeamento de jornadas**, construo **Design Systems** e entrego **protótipos em alta fidelidade** — com **handoff limpo**, porque eu falo a língua do dev: **React, HTML5, CSS3, SASS e JavaScript**.
 
@@ -33,13 +34,31 @@ Hoje aplico **inteligência artificial ao produto** — **LLMs, RAG, MCP, chatbo
 
 ## ⚡ Especialidades
 
-| 🎨 UX & Pesquisa | 🧩 Design Systems | ♿ Acessibilidade |
-|:--|:--|:--|
-| • Pesquisa com usuários<br>• Testes de usabilidade<br>• Arquitetura de informação<br>• Jornadas & heurísticas de Nielsen | • Bibliotecas modulares reutilizáveis<br>• Tokens, componentes e documentação<br>• Consistência e escalabilidade visual<br>• Handoff ágil com o time técnico | • WCAG 2.2 (nível AA)<br>• Padrão E-MAG — governo digital<br>• Interfaces inclusivas<br>• Testes A/B e validação |
+<table width="100%">
+<tr>
+<th width="33%" align="left">🎨 UX &amp; Pesquisa</th>
+<th width="33%" align="left">🧩 Design Systems</th>
+<th align="left">♿ Acessibilidade</th>
+</tr>
+<tr>
+<td align="left">• Pesquisa com usuários e testes de usabilidade contínuos<br>• Arquitetura de informação e fluxos de navegação claros<br>• Mapeamento de jornadas e heurísticas de Nielsen<br>• Validação de hipóteses com dados e evidências reais</td>
+<td align="left">• Bibliotecas modulares reutilizáveis e consistentes<br>• Tokens, componentes e documentação versionados<br>• Handoff ágil e fiel com o time de desenvolvimento<br>• Escalabilidade visual para múltiplos produtos</td>
+<td align="left">• Diretrizes WCAG 2.2 e padrão E-MAG do governo digital<br>• Interfaces inclusivas validadas com leitores de tela<br>• Testes A/B e otimização de conversão e retenção<br>• Usabilidade medida antes e depois das mudanças</td>
+</tr>
+</table>
 
-| 💻 Front-end | 🤖 IA & Automação | 📊 Produto & Dados |
-|:--|:--|:--|
-| • React, HTML5, CSS3, SASS, JavaScript<br>• Tailwind CSS, Bootstrap<br>• Git, SharePoint, WordPress<br>• Viabilidade técnica e performance | • LLMs · RAG · MCP<br>• Chatbots e agentes de IA<br>• Prompt engineering, models & skills<br>• Melhoria contínua com IA | • Métricas de UX e conversão<br>• Google Analytics e testes A/B<br>• Otimização de retenção<br>• Scrum, Kanban, Design Thinking |
+<table width="100%">
+<tr>
+<th width="33%" align="left">💻 Front-end</th>
+<th width="33%" align="left">🤖 IA &amp; Automação</th>
+<th align="left">📊 Produto &amp; Dados</th>
+</tr>
+<tr>
+<td align="left">• React, HTML5, CSS3, SASS e JavaScript<br>• Tailwind CSS, Bootstrap e layout responsivo<br>• Git, SharePoint e WordPress na prática<br>• Performance, viabilidade técnica e handoff ágil com devs</td>
+<td align="left">• LLMs, RAG e MCP aplicados ao produto<br>• Chatbots e agentes de IA orientados a tarefa<br>• Prompt engineering, models e skills<br>• Melhoria contínua medida por métricas e resultados reais</td>
+<td align="left">• Métricas de UX, conversão e retenção<br>• Google Analytics e testes A/B<br>• Otimização de jornadas orientada por dados e pesquisa<br>• Scrum, Kanban e Design Thinking</td>
+</tr>
+</table>
 
 ---
 
@@ -47,10 +66,29 @@ Hoje aplico **inteligência artificial ao produto** — **LLMs, RAG, MCP, chatbo
 
 <div align="center">
 
-| 🧩 | ⚡ | 📈 | 🚀 | 💬 |
-|:--:|:--:|:--:|:--:|:--:|
-| **↓ 30%** | **↓ 40%** | **↑ 20%** | **↑ 35%** | **↑ 25%** |
-| tempo de desenvolvimento front-end | entrega de novas interfaces | taxas de conversão | performance de carregamento | engajamento de usuários |
+<table width="100%">
+<tr>
+<th align="center">🧩</th>
+<th align="center">⚡</th>
+<th align="center">📈</th>
+<th align="center">🚀</th>
+<th align="center">💬</th>
+</tr>
+<tr>
+<td align="center"><b>↓ 30%</b></td>
+<td align="center"><b>↓ 40%</b></td>
+<td align="center"><b>↑ 20%</b></td>
+<td align="center"><b>↑ 35%</b></td>
+<td align="center"><b>↑ 25%</b></td>
+</tr>
+<tr>
+<td align="center">tempo de desenvolvimento front-end do time</td>
+<td align="center">entrega de novas interfaces e telas</td>
+<td align="center">taxas de conversão do produto</td>
+<td align="center">performance de carregamento das páginas</td>
+<td align="center">engajamento e retenção de usuários</td>
+</tr>
+</table>
 
 </div>
 
@@ -58,21 +96,25 @@ Hoje aplico **inteligência artificial ao produto** — **LLMs, RAG, MCP, chatbo
 
 ## 🤖 IA aplicada ao design
 
-<table>
+<table width="100%">
 <tr>
-<td align="center"><b>Contexto &amp; memória</b><br/>RAG sobre bases internas<br/>para respostas fiéis ao produto</td>
-<td align="center"><b>Integração</b><br/>MCP conectando design,<br/>docs e ferramentas</td>
-<td align="center"><b>Conversação</b><br/>Chatbots e agentes<br/>orientados a tarefa</td>
-<td align="center"><b>Evolução</b><br/>Models, skills e<br/>melhoria contínua</td>
+<td width="25%" align="center"><b>Contexto &amp; memória</b><br/>RAG sobre bases internas, docs e design system<br/>para respostas fiéis ao contexto de cada tela</td>
+<td width="25%" align="center"><b>Integração</b><br/>MCP conectando design, documentação<br/>e ferramentas do dia a dia do time em um protocolo</td>
+<td width="25%" align="center"><b>Conversação</b><br/>Chatbots e agentes de IA orientados a tarefa<br/>com contexto do produto e da jornada do usuário</td>
+<td align="center"><b>Evolução</b><br/>Models, skills e avaliações de qualidade contínua<br/>medindo impacto a cada iteração do produto</td>
 </tr>
 </table>
 
 <br/>
 
+<div align="center">
+
 [![LLM](https://img.shields.io/badge/LLM-ChatGPT%20%7C%20Claude%20%7C%20Gemini-1a1a2e?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)](https://ale.br.com)
 [![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-1a1a2e?style=for-the-badge&logoColor=4ECDC4)](https://ale.br.com)
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-1a1a2e?style=for-the-badge&logoColor=FF6B6B)](https://ale.br.com)
 [![Agents](https://img.shields.io/badge/Agents-Chatbots%20%26%20Skills-1a1a2e?style=for-the-badge&logoColor=A78BFA)](https://ale.br.com)
+
+</div>
 
 ---
 
@@ -130,14 +172,20 @@ Hoje aplico **inteligência artificial ao produto** — **LLMs, RAG, MCP, chatbo
 
 ## 🏢 Experiência
 
-| Empresa | Cargo | Período |
-|:--|:--|:--|
-| **G4F** | Senior UX/UI Designer | 12/2022 – 09/2026 |
-| **Sicoob** *(via Indra)* | Senior UX/UI Designer | 06/2020 – 10/2022 |
-| **Caixa Seguradora** *(via Millenium)* | Senior UX/UI Designer | 09/2019 – 06/2020 |
-| **BeepApp** *(Startup)* | Senior UX/UI Designer | 06/2019 – 09/2019 |
-| **Capgemini** | UI Designer / Front-end Developer Sênior | 10/2018 – 06/2019 |
-| **Basis Tecnologia** | Senior UX/UI Designer | 09/2018 – 10/2018 |
+<table width="100%">
+<tr>
+<th width="22%" align="left">Empresa</th>
+<th width="26%" align="left">Cargo</th>
+<th align="left">Destaques</th>
+</tr>
+<tr><td align="left"><b>PD Case</b></td><td align="left">Senior UX/UI Especialista</td><td align="left">Aplicação de IA no fluxo de produto — LLMs, RAG, MCP e chatbots — com foco em melhoria contínua.</td></tr>
+<tr><td align="left"><b>G4F</b></td><td align="left">Senior UX/UI Designer</td><td align="left">Design Systems e bibliotecas reutilizáveis que reduziram 30% do tempo de dev e elevaram a conversão em 20%.</td></tr>
+<tr><td align="left"><b>Sicoob</b> <i>(via Indra)</i></td><td align="left">Senior UX/UI Designer</td><td align="left">Design Systems modulares que reduziram 40% o tempo de entrega de novas interfaces no squad.</td></tr>
+<tr><td align="left"><b>Caixa Seguradora</b> <i>(via Millenium)</i></td><td align="left">Senior UX/UI Designer</td><td align="left">Redesenho de arquitetura de informação e melhoria de acessibilidade WCAG em portais de seguros.</td></tr>
+<tr><td align="left"><b>BeepApp</b> <i>(Startup)</i></td><td align="left">Senior UX/UI Designer</td><td align="left">Prototipação de fluxos para chatbots que aumentou 25% o engajamento dos usuários.</td></tr>
+<tr><td align="left"><b>Capgemini</b></td><td align="left">UI Designer / Front-end Developer Sênior</td><td align="left">Padronização de portais públicos (TCU) e +35% de performance no carregamento das páginas.</td></tr>
+<tr><td align="left"><b>Basis Tecnologia</b></td><td align="left">Senior UX/UI Designer</td><td align="left">Layouts responsivos conforme o padrão E-MAG e testes A/B com Google Analytics.</td></tr>
+</table>
 
 **Clientes e setores:** Serviços financeiros · Seguros · Governo (TCU) · Saúde · Varejo · Startups
 
@@ -147,18 +195,23 @@ Hoje aplico **inteligência artificial ao produto** — **LLMs, RAG, MCP, chatbo
 
 🎓 **Bacharel em Ciência da Computação** — UNICEUB (Centro Universitário de Brasília)
 
+<div align="center">
+
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-IQ_Qualification-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Liferay](https://img.shields.io/badge/Liferay-Certified_Professional-1a1a2e?style=flat-square&logoColor=4ECDC4)
 ![HTML5/CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-W3C_Fundamentals-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-Cloud_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum_%26_DevOps-Gest%C3%A3o_%C3%81gil-1a1a2e?style=flat-square&logoColor=A78BFA)
 
+</div>
+
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eualessandro&show_icons=true&locale=pt&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eualessandro&show_icons=true&locale=pt-br&theme=tokyonight" alt="GitHub stats" />
+&nbsp;
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eualessandro&theme=github-dark&background=0D1117&stroke=4ECDC4" alt="GitHub streak" />
 <br/>
 <br/>
