@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,45:1a1a2e,100:4ECDC4&height=150&section=header&text=Alessandro%20Rodrigues&fontColor=ffffff&fontSize=44&fontFace=Yanone%20Kaffeesatz&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,45:1a1a2e,100:4ECDC4&height=150&section=header&text=Alessandro%20Rodrigues&fontColor=ffffff&fontSize=44&fontFace=Yanone%20Kaffeesatz&animation=fadeIn" width="100%" />
 
 
 
@@ -241,4 +241,4 @@ Hoje aplico **inteligência artificial ao produto** — **LLMs, RAG, MCP, chatbo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,45:1a1a2e,100:0e75b6&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,45:1a1a2e,100:0e75b6&height=110&section=footer" width="100%" />
